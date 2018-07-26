@@ -21,7 +21,12 @@ Option table contains Id (int), question_id(int), answer(varchar) and correct(in
 
 ##Example
 
-Let say quizz name is 'best_employee'. 
-We have have to add two tables. First is 'best_employee_q' and second is 'best_employee_o'.
-Now in the first table 'best_employee_q' we enter questions. Like 
+Let say quizz name is 'best_employee'. Add it to 'test' table. Like https://take.sc/auc5
+Now we have have to add two tables. First is 'best_employee_q' and second is 'best_employee_o'.
+
+'best_employee_q' would look like:
+https://take.sc/auc3
+
+'best_employee_o' would look like:
+https://take.sc/auc4
 
