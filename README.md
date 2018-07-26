@@ -1,11 +1,13 @@
 
 ##Installation
 
-Clone Repository: git clone
+Clone Repository: git clone https://github.com/jaannis/quizz
 
 Change database settings under Database/config
 
-Import dump file to database service
+Import dump file to database
+
+You ready to go.
 
 ##Usage
 
