@@ -9,7 +9,6 @@ class processController
     {
         $total = $database->totalQuestions($_SESSION['test'] . '_q');
         $next  = $_SESSION['number'] + 1;
-        $next  = $_SESSION['number'] + 1;
         if ($_SESSION['number'] == $total[0]->Id) {
 
             $save = new saveController();
